@@ -8,3 +8,5 @@ Makes the fight harder by changing how much damage the dragon recieves and how m
 - At 700 HP:  Level 1
 - At 400 HP:  Level 2
 - At 100 HP:  Level 3
+
+Download on modrinth: https://modrinth.com/plugin/harder-dragon
