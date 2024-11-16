@@ -1,0 +1,8 @@
+name: HarderDragon
+version: '1.0.0'
+main: de.silencio.harderDragon.HarderDragon
+api-version: '1.21'
+load: STARTUP
+authors: [ Silencio ]
+description: Makes the Ender Dragon a harder boss to fight
+website: devlencio.net
